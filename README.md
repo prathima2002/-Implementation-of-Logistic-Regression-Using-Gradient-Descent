@@ -61,7 +61,7 @@ plt.ylabel("loss")
 ```
 
 ## Output:
-![logistic regression using gradient descent](sam.png)
+![image](https://github.com/prathima2002/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/blob/72ddbd18f1b73c284598540526b4f3e3d9faa782/WhatsApp%20Image%202022-10-20%20at%2008.34.24.jpeg)
 
 
 ## Result:
