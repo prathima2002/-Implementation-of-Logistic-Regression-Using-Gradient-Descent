@@ -62,7 +62,7 @@ plt.ylabel("loss")
 
 ## Output:
 ![image](https://github.com/prathima2002/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/blob/72ddbd18f1b73c284598540526b4f3e3d9faa782/WhatsApp%20Image%202022-10-20%20at%2008.34.24.jpeg)
-
+![image](https://github.com/prathima2002/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/blob/d4e297e6bdb3523df736453356c092aca6f21895/WhatsApp%20Image%202022-10-20%20at%2008.36.20.jpeg)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
