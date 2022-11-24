@@ -121,6 +121,7 @@ np.mean(predict(res.x,X)==y)
 ![imaage](https://github.com/prathima2002/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/blob/35f31d83cd40ed377c7ae36d7e1552bc5a46545d/WhatsApp%20Image%202022-11-24%20at%2008.20.44.jpeg)
 ![image](https://github.com/prathima2002/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/blob/1e3f8cdaea95054507ff166ffb01db6dedffb087/WhatsApp%20Image%202022-11-24%20at%2008.21.05.jpeg)
 ![image](https://github.com/prathima2002/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/blob/3755eb36dcfeb2265087788858888592edefd2e0/WhatsApp%20Image%202022-11-24%20at%2008.21.54.jpeg)
+![image](https://github.com/prathima2002/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/blob/7e9bf889416652b254924f939c4ffc7e3d2eacbc/WhatsApp%20Image%202022-11-24%20at%2008.22.03.jpeg)
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
 
